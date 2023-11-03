@@ -19,7 +19,7 @@ https://www.python.org/downloads/
 After installing Python, you can run the program by opening the PyDebug2.py file. This will allow you to see the outcome of the project.
 
 ```
-python PyDebug2.py
+ PyDebug2.py
 ```
 
 
