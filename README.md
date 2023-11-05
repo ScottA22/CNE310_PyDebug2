@@ -8,7 +8,7 @@ PyDebug2 is a Python program designed to convert numerical grades into letter gr
 
 ## Getting Started
 
-To use PyDebug2, you need a Python compiler. If you don't have one, you can download PyCharm python compilor from there official website down below.
+To use PyDebug2, you need a Python compiler. If you don't have one, you can download PyCharm python compilor from their official website down below.
 
 ```
 https://www.python.org/downloads/
@@ -16,7 +16,7 @@ https://www.python.org/downloads/
 
 
 ## Running
-After installing Python, you can run the program by opening the PyDebug2.py file. This will allow you to see the outcome of the project.
+After installing Python, you can run the program by opening the Debug2.py file. This will allow you to see the outcome of the project.
 
 ```
  Debug2.py
